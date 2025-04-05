@@ -4,12 +4,6 @@ A full-stack web application that streamlines the job search and hiring process 
 
 ---
 
-## 🌐 Live Demo
-
-> 
-
----
-
 ## 🚀 Features
 
 ### 🧍 For Job Seekers
@@ -44,21 +38,4 @@ A full-stack web application that streamlines the job search and hiring process 
 - **Vite**
 
 ---
-
-## 📁 Project Structure
-job-search-portal/
-│
-├── backend/       # Node.js + Express backend
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   ├── index.js
-│   └── package.json
-│
-└── frontend/      # Vue + Tailwind frontend
-    ├── src/
-    ├── public/
-    ├── index.html
-    └── package.json
-
 
