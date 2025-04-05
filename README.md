@@ -1,29 +1,29 @@
-# 🧑‍💼 Job Search Portal
+# Job Search Portal
 
 A full-stack web application that streamlines the job search and hiring process by connecting job seekers with recruiters through a modern and intuitive interface.
 
 ---
 
-## 🚀 Features
+## Features
 
-### 🧍 For Job Seekers
+### For Job Seekers
 - Register and login securely
 - Browse and search for jobs
 - Apply to jobs directly
 - Track application status
 
-### 🏢 For Recruiters
+### For Recruiters
 - Create job postings
 - View and manage candidate applications
 - Shortlist or reject applicants
 
-### 🔐 Admin Panel
+### Admin Panel
 - Monitor all users and jobs
 - Perform administrative tasks
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
 - **Node.js**
