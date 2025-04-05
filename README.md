@@ -6,7 +6,7 @@ A full-stack web application that streamlines the job search and hiring process 
 
 ## 🌐 Live Demo
 
-> _[Add link here if hosted, e.g., on Vercel or Heroku]_
+> 
 
 ---
 
@@ -46,4 +46,19 @@ A full-stack web application that streamlines the job search and hiring process 
 ---
 
 ## 📁 Project Structure
+job-search-portal/
+│
+├── backend/       # Node.js + Express backend
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── index.js
+│   └── package.json
+│
+└── frontend/      # Vue + Tailwind frontend
+    ├── src/
+    ├── public/
+    ├── index.html
+    └── package.json
+
 
